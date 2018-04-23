@@ -1,3 +1,7 @@
+---
+layout: post
+title: Welcome to my blog
+---
 # Welcome to my blog - 2018
 
 ##### The Programming Blog
